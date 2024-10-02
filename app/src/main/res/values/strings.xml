@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textgreeting">textGreeting</string>
+    <string name="textGreeting">textGreeting</string>
+    <string name="nametext">nameText</string>
+    <string name="nameText">nameText</string>
+    <string name="enter_name_here">Enter name here:</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="Enter_Name_Here">Enter Name Here:</string>
+</resources>
